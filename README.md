@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-## Welcome to my Github page
+#### Welcome to my Github page
 
 On this page i share repositories of personal projects or uni assignements/classes
 
